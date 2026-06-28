@@ -46,3 +46,5 @@ npm run data:geocode    # koordinatları doldurur (~1-2 dk, internet gerekir)
 - Haftalık takvim, gün/ilçe filtresi ve arama
 - Leaflet interaktif harita (bugün turuncu, diğerleri yeşil pin)
 - Pazar detay sayfası (yol tarifi, kaynak, doğrulama durumu)
+  
+https://mersin-pazar-rehberi.vercel.app/
